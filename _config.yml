@@ -2,4 +2,4 @@ name: The Edentech Solutions Group Blog
 markdown: redcarpet
 pygments: true
 timezone: America/New_York
-baseurl: http://blog.edentech.net/
+baseurl: http://blog.edentech.net
