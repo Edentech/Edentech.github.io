@@ -29,7 +29,7 @@ layout: nil
     <loc>
       http://blog.edentech.net/
     </loc>
-    <lastmod>{{ site.time }}</lastmod>
+    <lastmod>{{ site.time | date_to_xmlschema}}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>.75</priority>
   </url>
