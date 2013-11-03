@@ -5624,35 +5624,6 @@ img.logo {
   font-size: 8em;
   color: #3399cc; }
 
-.page-header-wrapper {
-  width: 100%;
-  text-align: center;
-  background-color: #3399cc;
-  padding-top: 0;
-  margin-top: 0;
-  margin-bottom: 10px; }
-
-.page-header h2 {
-  font-size: 1.3em;
-  color: #333333; }
-
-.page-header h1 {
-  font-size: 2.1em;
-  color: #fff; }
-
-.page-header .panel {
-  background-color: #3399cc;
-  color: white;
-  min-height: 110px; }
-
-.page-header .image-pop {
-  padding-top: 20px;
-  padding-left: 0px;
-  margin-bottom: 10px;
-  color: #FFF;
-  float: left;
-  font-size: 8em; }
-
 .address {
   text-align: center;
   font-size: .8em; }
@@ -5739,5 +5710,61 @@ a.why-edentech-link :hover {
   margin: 0 auto; }
 
  .meta {
- 	color: white;
+ 	color: black;
+ 	padding: 0;
+ 	margin: 0;
+ 	font-size: .8em;
  }
+
+ .author{
+ 	color: #000 !important;
+ 	font-weight: bold;
+ 	font-size: 1.2em;
+ }
+
+ .panel h4{
+  font-size: .9em;
+ }
+
+h1.leader{
+	color: #2ba6cb !important;
+ 	font-weight: bold;
+ 	font-size: 1.2em;
+  padding: 20px;
+}
+
+.page-header-wrapper {
+  width: 100%;
+  text-align: center;
+  background-color: #fff;
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 2px; }
+
+.page-header h2 {
+  font-size: 1.3em;
+  color: #333333; }
+
+.page-header h1 {
+  font-size: 1.8em;
+  color: #3399cc; 
+  padding-bottom: 0;
+  margin-bottom: 3px;
+ }
+
+.page-header .panel {
+  background-color: #3399cc;
+  color: white;
+  min-height: 110px; }
+
+.page-header .image-pop {
+  padding-top: 20px;
+  padding-left: 0px;
+  margin-bottom: 10px;
+  color: #FFF;
+  float: left;
+  font-size: 8em; }
+
+
+
+
