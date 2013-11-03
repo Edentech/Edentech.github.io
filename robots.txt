@@ -1,0 +1,7 @@
+---
+layout: nil
+---
+Sitemap: {{ site.baseurl }}sitemap.xml
+User-agent: *
+Disallow: /500
+Disallow: /404
