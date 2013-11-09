@@ -4151,8 +4151,14 @@ form.custom {
       margin-left: -47.5%;
       width: 95%; } }
 @media print {
-  div:not(.reveal-modal) {
-    display: none; } }
+  .header-wrapper {
+    display: none !important; 
+  } 
+  
+  #disqus_thread{
+    display: none !important; 
+  }
+}
 /* Foundation Joyride */
 .joyride-list {
   display: none; }
