@@ -30,7 +30,7 @@ That's the story of Garland going from a minimum viable product to the rather po
 
 
 
-[garland]: http://www.garlandlive.net/
+[garland]: https://www.garlandlive.net/
 [sam]: https://www.sam.gov/portal/public/SAM/
 [nj]: http://www.state.nj.us/treasury/debarred/
 [mvp]: http://en.wikipedia.org/wiki/Minimum_viable_product
