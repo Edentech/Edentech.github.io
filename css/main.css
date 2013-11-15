@@ -5771,6 +5771,11 @@ h1.leader{
   float: left;
   font-size: 8em; }
 
+  .padded-left{
+	  padding-left: 10px;
+  }
 
-
+  .blog-body ol {
+	  padding-left: 20px !important;
+  }
 
