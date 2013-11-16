@@ -3,16 +3,27 @@ layout: default
 ---
 <div class="page-header-wrapper">
     <div class="row page-header">
-        <div class="large-10 small-12 columns">
+        <div class="large-10 small-12 columns">			
             <h1>{{ page.title }}</h1>
-
-            <p class="meta">Posted on {{ page.date | date_to_string }} by <span class="author">{{ page.author }}</span>
-            </p>
+            <p class="meta">Posted on {{ page.date | date_to_string }} by <span class="author">{{ page.author }}</span>				
+            </p>		
         </div>
     </div>
 </div>
 <div class="row blog-body">
     <hr>
+	<div class="row social-area">
+		<div class="left">
+		<script src="//platform.linkedin.com/in.js" type="text/javascript">
+		 lang: en_US
+		</script>
+		<script type="IN/Share"></script>	
+		</div>
+		<div class="left social-item">
+			<a href="https://twitter.com/share" class="twitter-share-button" data-via="EdentechGroup" data-count="none">Tweet</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>			
+		</div>
+	</div>		
     {{ content }}
 </div>
 <div class="row">

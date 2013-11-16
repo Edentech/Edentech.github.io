@@ -5779,3 +5779,11 @@ h1.leader{
 	  padding-left: 20px !important;
   }
 
+  .social-area {
+	  padding-left: 30px;
+	  padding-bottom: 10px;
+  }
+  
+  .social-item {
+	  padding-left: 10px;
+  }
