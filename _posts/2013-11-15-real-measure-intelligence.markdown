@@ -6,7 +6,7 @@ categories: leadership
 author:  Al Cini
 ---
 
-<img src="/assets/thinking.png" class="right padded-left" alt="Garland"> When early-20th Century business philosopher Napoleon Hill said “Action is the real measure of intelligence,” he voiced a point that echoes even more loudly today. The 21st Century seems filled with bright, well-informed, electronically interconnected people who too willingly settle for just looking intelligent. Operating in an undemanding world of intermediate work products, they circularly review, criticize, and refine each other’s’ stuff, always diligently gestating without ever quite delivering.
+<img src="/assets/thinking.png" class="right padded-left" alt="Garland" itemprop="image"> When early-20th Century business philosopher Napoleon Hill said “Action is the real measure of intelligence,” he voiced a point that echoes even more loudly today. The 21st Century seems filled with bright, well-informed, electronically interconnected people who too willingly settle for just looking intelligent. Operating in an undemanding world of intermediate work products, they circularly review, criticize, and refine each other’s’ stuff, always diligently gestating without ever quite delivering.
 
 Everyone’s busy, it seems, but nothing’s getting done.
 
@@ -14,7 +14,7 @@ Some organizations consistently execute on their strategies with discipline and 
 
 Many more organizations, however, become bogged down in the diligent pursuit of narrowly defined perfection. “Due Diligence,” they call it, but when does due diligence become don’t diligence? What does it take to spark an organizational shift from activity to action?
 
-Execution, delivering on the promise of an organization’s strategy, is the central challenge of modern leadership. Some organizations “have it,” but many don’t, and the difference lies in a fearlessly deep dive into six basic questions:
+<span itemprop="description">Execution, delivering on the promise of an organization’s strategy, is the central challenge of modern leadership. Some organizations “have it,” but many don’t, and the difference lies in a fearlessly deep dive into six basic questions</span>:
 
 1.	As an organization, how do we make decisions? How do we translate our decisions into results?
 2.	What motivates our people? Are we doing all we can to harness their motivation?

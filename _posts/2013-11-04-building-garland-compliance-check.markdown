@@ -6,7 +6,7 @@ categories: product
 author:  Matt Mondok
 ---
 
-<img src="/assets/garland.png" class="right" alt="Garland"> We're coming up on the two-year anniversary of [Garland][garland], and it's pretty interesting to reflect on how we went from a rudimentary search interface and manually importing data to a large-scale scale, self-sufficient web-based application.
+<img src="/assets/garland.png" class="right" alt="Garland" itemprop="image"> <span itemprop="description">We're coming up on the two-year anniversary of [Garland][garland], and it's pretty interesting to reflect on how we went from a rudimentary search interface and manually importing data to a large-scale scale, self-sufficient web-based application.</span>
 
 In case you aren't familiar with the product, Garland is a service that we offer which allows users to verify both employees and vendors against government-provided exclusion lists.  The most popular list, the [System for Award Management][sam], is provided by the federal government.  Other lists such as the [State of New Jersey Debarment Report][nj] are provided by the individual states.  Mandates vary state by state, but most of our users are in the system weekly in order to meet different compliance laws.  While it doesn't necessarily pertain to this post, it's also worth noting that we provide Garland as a free service without limitations -- it's effectively a way of saying 'thanks' to our clients and (potential) customers.  As of this writing, Garland supports 10 different databases that are updated at least once per day if not more.
 
