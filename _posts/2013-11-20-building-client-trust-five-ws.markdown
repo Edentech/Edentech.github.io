@@ -6,7 +6,7 @@ categories: consulting
 author:  Matt Mondok
 ---
 
-In some form or another, I've done software consulting since before I was in college.  I can still remember the excitement of my first contract:  I was paid $600 to develop a website for a waste management company.  Being 16 at the time, I was incredibly excited not just to create software professionally but to also be paid well.  Over the following three months, I'd develop a friendship with that client and we'd continue doing business for years to come.  It always felt like we were one company, not separate entities.  
+In some form or another, I've done software consulting since before I was in college.  I can still remember the excitement of my first contract:  I was paid $600 to develop a website for a waste management company.  Being 16 at the time, I was incredibly excited not just to create software professionally but to also be paid well.  Over the following three months, I developed a friendship with that client and we continued doing business for years to come.  It always felt like we were one company, not separate entities.  
 
 Of course, not every client wants to have a close working relationship.  And while rare, sometimes it's in a consultant's best interest to maintain some distance.  Still, the biggest successes that we've found in consulting have been when we get to work closely with a client and establish some level of friendship - and more importantly - trust.
 
