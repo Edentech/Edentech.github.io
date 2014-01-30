@@ -23,3 +23,7 @@ When opting for the cloud-hosted approach, the facility or organization needs to
 Lastly in choosing an approach, there is always a cost consideration.  Cloud vendors always sound less expensive, and "sometimes" they are.  That means that sometimes they're not, too.  You need to do the work to understand the short and long-term financial impact on your organization.
 
 Either way, you're on your journey riding the express to the "Near Zero Computing Footprint".  Next time, I'll get more into the "Why long-term care?"
+
+<strong>
+<a href='http://blog.edentech.net/healthcare/2014/01/30/near-zero-computing-footprint-longterm-care-part-2.html'>Read Near Zero Computing Footprint for Long-term Care - Part 2</a>
+</strong>
